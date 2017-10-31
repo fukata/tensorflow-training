@@ -13,3 +13,4 @@
 ## Source Code
 
 - get_started: https://www.tensorflow.org/get_started/get_started
+- tutorials: https://www.tensorflow.org/tutorials/
